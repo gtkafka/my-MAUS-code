@@ -1,0 +1,8 @@
+INSTANCE METHODS
+
+(int)age;
+(void)setAge:(int)age;
+
+(void)init;
+(void)initWithName:(NSString *)name andAge:(int)age;
+
