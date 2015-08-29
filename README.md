@@ -1,5 +1,5 @@
-# my-MAUS-code
-## This is code I wrote for the MAUS software project for the Muon Ionization Cooling Experiment (MICE).
+# Cherenkov code for the MICE Analysis User Software (MAUS).
+Each of these files were written by myself.
 
 ### The Cherenkov Detector
 
