@@ -1,5 +1,4 @@
 # Cherenkov code for the MICE Analysis User Software (MAUS).
-Each of these files were written by myself.
 
 ### The Cherenkov Detector
 
